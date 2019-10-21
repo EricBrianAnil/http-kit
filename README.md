@@ -1,6 +1,6 @@
 # HTTP Kit
 
-### A high-performance event-driven HTTP client+server for Clojure
+### A high-performance event-driven HTTP client+server for [Clojure](https://clojure.org/community/downloads)
 
 [CHANGELOG][] | Current [semantic](http://semver.org/) version/s:
 
